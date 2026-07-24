@@ -21,7 +21,7 @@ sudo apt install git python3 python3-pip -y
 ```
 
 ```bash
-git clone https://github.com
+git clone https://github.com/alphinux/Evil_FPF-v1.0-.git
 ```
 
 ```bash
@@ -51,7 +51,7 @@ pkg install git python -y
 ```
 
 ```bash
-git clone https://github.com
+git clone https://github.com/alphinux/Evil_FPF-v1.0-.git
 ```
 
 ```bash
