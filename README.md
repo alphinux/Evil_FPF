@@ -31,6 +31,9 @@ cd Evil_FPF-v1.0-
 ```bash
 pip3 install flask
 ```
+```bash
+chmod +x *
+```
 
 ```bash
 python3 evilfp.py
@@ -60,6 +63,10 @@ cd Evil_FPF-v1.0-
 
 ```bash
 pip install flask
+```
+
+```bash
+chmod +x *
 ```
 
 ```bash
