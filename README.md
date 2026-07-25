@@ -1,6 +1,6 @@
 # Evil_FPF (v1.0) ☠️
 
-![Evil_FPF Banner](evil2.jpg)
+![Evil_FPF Banner](Evil2.jpg)
 
 Evil_FPF is an Advanced Facebook Phishing Framework Tool specifically tailored for Termux and Kali Linux systems. No root permissions are required to operate this framework.
 
