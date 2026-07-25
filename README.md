@@ -25,7 +25,7 @@ git clone https://github.com/alphinux/Evil_FPF-v1.0-.git
 ```
 
 ```bash
-cd Evil_FPF-v1.0-
+cd Evil_FPF
 ```
 
 ```bash
@@ -58,7 +58,7 @@ git clone https://github.com/alphinux/Evil_FPF-v1.0-.git
 ```
 
 ```bash
-cd Evil_FPF-v1.0-
+cd Evil_FPF
 ```
 
 ```bash
